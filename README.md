@@ -1,4 +1,4 @@
-# NLP_project
+# CROSS LINGUAL TRANSFER LEARNING
 
 A small collection of experiments and scripts for natural language processing tasks, primarily exploring:
 - Zero-shot classification using Hugging Face transformers (BART MNLI).
@@ -51,7 +51,6 @@ python -m pip install --upgrade pip
 pip install transformers datasets torch numpy pandas scikit-learn nltk tqdm wandb sentencepiece
 ```
 
-If you prefer a pinned requirements file, you can create one from the environment you test in and add it to the repo.
 
 ---
 
